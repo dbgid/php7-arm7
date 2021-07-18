@@ -8,6 +8,7 @@ Make sure your device is arm7 by typing<br>
 # Usage
 git clone https://github.com/dbgid/php7-arm7<br>
 apt install p7zip<br>
+cd php7-arm7<br>
 7z e php7-arm7.7z<br>
 cd php7-arm7<br>
 sh php7.sh<br>

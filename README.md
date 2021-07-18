@@ -3,7 +3,7 @@ Downgrade PHP cli on termux in device arm7
 
 This repo can help you to downgrade php 8 to php 7 on termux in device armv7
 <br>
-Make sure your device is arm7 by typing<br>
+Make sure your device is armv7 by typing<br>
 <b>uname -m</b>
 # Usage
 git clone https://github.com/dbgid/php7-arm7<br>
